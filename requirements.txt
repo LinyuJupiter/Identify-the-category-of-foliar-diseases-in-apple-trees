@@ -1,0 +1,15 @@
+tensorflow-gpu
+keras
+numpy
+pandas
+tqdm
+sklearn
+torchmetrics
+torch
+torchvision
+matplotlib
+opencv-python
+albumentations
+pytorch_lightning
+collections
+torchviz
